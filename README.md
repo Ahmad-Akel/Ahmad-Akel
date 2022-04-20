@@ -63,3 +63,20 @@ I'm Ahmad Akel, I'm a Frontend Developer (Specializing in React & Vue js), I'm a
   and filtering data, user management, and permissions)
 - SQL (Create a Databases application, with relations and SQL queries)
 - Working with Git
+
+-------------------------------------------------------------------------------------------------------------------
+
+🌱 My Contacts: 
+
+- Phone: (+420) 722939931 
+- Email address: ahmad.oudai1999@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ahmadAkel
+- Twitter: https://twitter.com/AhmadAk86120125
+
+
+                                                        ************************************
+                                                        
+- My Blog: https://ohmycodechallenge.blogspot.com
+- Youtube Channel : https://www.youtube.com/channel/UC5VmIxVtLRsoqlMaan61wSQ
+- Medium: https://medium.com/@ahmadakell
+
