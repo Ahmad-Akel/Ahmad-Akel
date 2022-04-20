@@ -32,7 +32,7 @@ I'm Ahmad Akel, I'm a Frontend Developer (Specializing in React & Vue js), I'm a
 - Bootstrap
 
 -------------------------------------------------------------------------------------------------------------------
-🌱 LANGUAGE SKILLS
+🗣️ LANGUAGE SKILLS
 
 - Mother tongue(s): Arabic
 
@@ -51,7 +51,7 @@ I'm Ahmad Akel, I'm a Frontend Developer (Specializing in React & Vue js), I'm a
 
 -------------------------------------------------------------------------------------------------------------------
 
-🌱 Additional Skills:
+💪 Additional Skills:
 
 - Basic knowledge of C#, C++, Java, and a good understanding of OOP
 - React Native a Cross-Platform Mobile Application (a basic project with some components for learning
@@ -66,7 +66,7 @@ I'm Ahmad Akel, I'm a Frontend Developer (Specializing in React & Vue js), I'm a
 
 -------------------------------------------------------------------------------------------------------------------
 
-🌱 My Contacts: 
+☎️ My Contacts: 
 
 - Phone: (+420) 722939931 
 - Email address: ahmad.oudai1999@gmail.com
@@ -80,4 +80,3 @@ I'm Ahmad Akel, I'm a Frontend Developer (Specializing in React & Vue js), I'm a
 - Youtube Channel : https://www.youtube.com/channel/UC5VmIxVtLRsoqlMaan61wSQ
 - Medium: https://medium.com/@ahmadakell
 
-![<Badge Name>](https://ohmycodechallenge.blogspot.com/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
