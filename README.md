@@ -80,3 +80,4 @@ I'm Ahmad Akel, I'm a Frontend Developer (Specializing in React & Vue js), I'm a
 - Youtube Channel : https://www.youtube.com/channel/UC5VmIxVtLRsoqlMaan61wSQ
 - Medium: https://medium.com/@ahmadakell
 
+![<Badge Name>](https://ohmycodechallenge.blogspot.com/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
