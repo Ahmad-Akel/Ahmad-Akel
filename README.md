@@ -122,8 +122,8 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ahmadakel/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://https://www.linkedin.com/in/ahmadakel/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/medium-light.svg)](https://medium.com/@ahmadakell#gh-light-mode-only)
-[![website](./img/medium-dark.svg)](https://medium.com/@ahmadakell#gh-dark-mode-only)
+[![website](./img/medium-dark.svg)](https://medium.com/@ahmadakell#gh-light-mode-only)
+[![website](./img/medium-light.svg)](https://medium.com/@ahmadakell#gh-dark-mode-only)
 
                                                         ************************************
                                                         
