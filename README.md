@@ -126,6 +126,18 @@
 🟩 Developing Games 
 
 -------------------------------------------------------------------------------------------------------------------
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How to Become a Video Game Developer— 2022](https://ohmycodechallenge.blogspot.com/2022/04/how-to-become-video-game-developer-2022.html)
+- [Word is the best code editor](https://ohmycodechallenge.blogspot.com/2022/04/word-is-best-code-editor-many-of-you.html)
+- [Tic Tac Toe](https://ohmycodechallenge.blogspot.com/2022/03/tic-tac-toe.html)
+- [Angry Birds Using Unity 2D](https://ohmycodechallenge.blogspot.com/2022/01/blog-post.html)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://ohmycodechallenge.blogspot.com/)
+
+---
 
 ### Connect with me:
 
