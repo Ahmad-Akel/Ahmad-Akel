@@ -27,35 +27,28 @@
 
 <br />
 <br />
-🔭 WORK EXPERIENCE
 
-🟢 Front end developer
+  ## WORK EXPERIENCE
 
-🟢 VOATT [ 14/04/2020 – 06/08/2020 ]
-
-🟢 City: Pardubice
-
-🟢 Country: Czechia
-
-🟢 Designing and implement components for various websites, mainly worked with Web Design (CSS, SASS), Html,
+- 🔭 Front end developer
+- 🌱 VOATT [ 14/04/2020 – 06/08/2020 ]
+- 👯 City: Pardubice
+- 🥅 Country: Czechia
+- ⚡ Designing and implement components for various websites, mainly worked with Web Design (CSS, SASS), Html,
   and simple functionality with pure JavaScript. The backend was in Drupal (an open-source PHP CMS) 
-  
+
+<br />
+<br />
+
+- 🔭 Front end developer
+- 🌱 Advantech [ 03/09/2021 – 06/05/2022 ]
+- 👯 City: Brno
+- 🥅 Country: Czechia
+- ⚡ ainly working with Vue js using Vuetify as a UI library and Vuex as a state management pattern, pure JavaScript,  
+  Html, CSS.
  -------------------------------------------------------------------------------------------------------------------                            
 
-🟢 Front end developer
-
-🟢 Advantech [ 03/09/2021 – Current ]
-
-🟢 City: Brno
-
-🟢 Country: Czechia
-
-🟢 Mainly working with Vue js using Vuetify as a UI library and Vuex as a state management pattern, pure JavaScript,  
-  Html, CSS.
-  
--------------------------------------------------------------------------------------------------------------------
-
-🌱 My Skills
+## My Skills
 
 ✅ Javascript
 
@@ -75,7 +68,7 @@
 
 -------------------------------------------------------------------------------------------------------------------
 
-🗣️ LANGUAGE SKILLS
+## LANGUAGE SKILLS
 
 ✅ Mother tongue(s): Arabic
 
@@ -97,7 +90,7 @@
 
 -------------------------------------------------------------------------------------------------------------------
 
-💪 Additional Skills:
+## Additional Skills:
 
 🔸 Basic knowledge of C#, C++, Java, and a good understanding of OOP
 
@@ -118,7 +111,7 @@
 
 -------------------------------------------------------------------------------------------------------------------
 
-🎲 Hobbies:
+## Hobbies:
 
 🟩 Playing Chess
 
