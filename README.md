@@ -125,11 +125,5 @@
 [![website](./img/medium-dark.svg)](https://medium.com/@ahmadakell#gh-light-mode-only)
 [![website](./img/medium-light.svg)](https://medium.com/@ahmadakell#gh-dark-mode-only)
 
-                                                        ************************************
-                                                        
-👉 My Blog: https://ohmycodechallenge.blogspot.com
-
-👉 Youtube Channel : https://www.youtube.com/channel/UC5VmIxVtLRsoqlMaan61wSQ
-
-👉 Medium: https://medium.com/@ahmadakell
+                                                  
 
