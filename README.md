@@ -33,8 +33,8 @@
 
 - 🔭 Front end developer
 - 🌱 VOATT [ 14/04/2020 – 06/08/2020 ]
-- 👯 City: Pardubice
-- 🥅 Country: Czechia
+- 🏠 City: Pardubice
+- 🏤 Country: Czechia
 - ⚡ Designing and implement components for various websites, mainly worked with Web Design (CSS, SASS), Html,
   and simple functionality with pure JavaScript. The backend was in Drupal (an open-source PHP CMS) 
 
@@ -43,8 +43,8 @@
 
 - 🔭 Front end developer
 - 🌱 Advantech [ 03/09/2021 – 06/05/2022 ]
-- 👯 City: Brno
-- 🥅 Country: Czechia
+- 🏠 City: Brno
+- 🏤 Country: Czechia
 - ⚡ ainly working with Vue js using Vuetify as a UI library and Vuex as a state management pattern, pure JavaScript,  
   Html, CSS.
  -------------------------------------------------------------------------------------------------------------------                            
@@ -88,19 +88,19 @@
 
 ## LANGUAGE SKILLS
 
-✅ Mother tongue(s): Arabic
+📌 Mother tongue(s): Arabic
 
                                                         
 - Other language(s):
 
-✅ English
+📌 English
 
 🔹 LISTENING B2 READING B2 WRITING B2  
 
 🔹 SPOKEN PRODUCTION B2 SPOKEN INTERACTION B2
   
                                                         
-✅ Czech
+📌 Czech
 
 🔹 LISTENING B2 READING B1 WRITING B1
 
@@ -131,11 +131,11 @@
 
 ## Hobbies:
 
-🟩 Playing Chess
+♟ Playing Chess
 
-🟩 Reading Books
+📕 Reading Books
 
-🟩 Developing Games 
+🎮 Developing Games 
 
 -------------------------------------------------------------------------------------------------------------------
 ### 📕 Latest Blog Posts
