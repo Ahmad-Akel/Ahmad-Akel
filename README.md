@@ -27,6 +27,8 @@
 <br />
 <br />
 
+![snake gif](https://github.com/ahmad-akel/narayanbavisetti/blob/output/github-contribution-grid-snake.gif)
+
   ## WORK EXPERIENCE
 
 - 🔭 Front end developer
