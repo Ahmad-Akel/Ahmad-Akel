@@ -1,5 +1,6 @@
 ### Hi there 👋
   I'm Ahmad Akel, I'm a Frontend Developer (Specializing in React & Vue js), I'm also study Informatics at the university of Pardubice on Czech Republic.
+  You can message me via https://github.com/Ahmad-Akel/Ahmad-Akel/discussions
 
 🔭 WORK EXPERIENCE
 
