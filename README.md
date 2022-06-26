@@ -45,8 +45,18 @@
 - 🌱 Advantech [ 03/09/2021 – 06/05/2022 ]
 - 🏠 City: Brno
 - 🏤 Country: Czechia
-- ⚡ ainly working with Vue js using Vuetify as a UI library and Vuex as a state management pattern, pure JavaScript,  
+- ⚡ Mainly working with Vue js using Vuetify as a UI library and Vuex as a state management pattern, pure JavaScript,  
   Html, CSS.
+  
+  <br />
+  <br />
+  
+- 🔭 Front end developer
+- 🌱 mgm-tp [ 09/05/2022 – ] (Current)
+- 🏠 City: Prague
+- 🏤 Country: Czechia
+- ⚡ Mainly working with React js and Redux as a state management pattern and Typescript,  
+ 
  -------------------------------------------------------------------------------------------------------------------                            
 <p align="center">
     <a href="https://github.com/ahmad-akel/github-readme-streak-stats">
