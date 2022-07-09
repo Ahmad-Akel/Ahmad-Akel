@@ -1,12 +1,16 @@
 ### Hi there 👋
-  I'm Ahmad Akel, I'm a Frontend Developer (Specializing in React & Vue js), I'm also study Informatics at the university of Pardubice on Czech Republic.
+  I'm Ahmad Akel, I'm a Frontend Developer (Specializing in React & Vue js), I'm also study Informatics at the university of Pardubice on Czech Republic.  ![](https://komarev.com/ghpvc/?username=Ahmad-Akel&color=blueviolet)
   
 📍You can message me via [GitHub Discussion](https://github.com/Ahmad-Akel/Ahmad-Akel/discussions)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5VmIxVtLRsoqlMaan61wSQ?logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UC5VmIxVtLRsoqlMaan61wSQ)
-[![Website](https://img.shields.io/website?label=ohmycodechallenge.com&style=for-the-badge&url=https://ohmycodechallenge.blogspot.com)](https://ohmycodechallenge.blogspot.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/AhmadAk86120125?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AhmadAk86120125)
 
+<p align="left">
+<a href="https://www.linkedin.com/in/ahmadakel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" alt="samyr-ribeiro-82a720145" height="32" width="40" /></a>
+<a href="https://stackoverflow.com/users/10242422/ahmad-akell" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/stackoverflow.svg" alt="189079" height="32" width="40" /></a>
+<a href="https://twitter.com/AhmadAk86120125" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/twitter.svg" height="32" width="40" /></a>
+<a href="https://medium.com/@ahmadakell" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/medium.svg" height="32" width="40" /></a>
+</p>
 
 ### Languages and Tools:
 
