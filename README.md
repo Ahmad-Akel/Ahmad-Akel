@@ -1,5 +1,5 @@
 ### Hi there 👋
-  I'm Ahmad Akel, I'm a Frontend Developer (Specializing in React & Vue js), I'm also study Informatics at the university of Pardubice on Czech Republic.  ![](https://komarev.com/ghpvc/?username=Ahmad-Akel&color=blueviolet)
+  I'm Ahmad Akel, I'm a Frontend Developer (Specializing in React & Vue js), I'm also study Informatics at the university of CZU on Czech Republic.  ![](https://komarev.com/ghpvc/?username=Ahmad-Akel&color=blueviolet)
   
 📍You can message me via [GitHub Discussion](https://github.com/Ahmad-Akel/Ahmad-Akel/discussions)
 
