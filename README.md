@@ -34,13 +34,12 @@
 ![snake gif](https://github.com/ahmad-akel/narayanbavisetti/blob/output/github-contribution-grid-snake.gif)
 
   ## WORK EXPERIENCE
-
+  
 - 🔭 Front end developer
-- 🌱 VOATT [ 14/04/2020 – 06/08/2020 ]
-- 🏠 City: Pardubice
+- 🌱 mgm-tp [ 09/05/2022 – ] (Current)
+- 🏠 City: Prague
 - 🏤 Country: Czechia
-- ⚡ Designing and implement components for various websites, mainly worked with Web Design (CSS, SASS), Html,
-  and simple functionality with pure JavaScript. The backend was in Drupal (an open-source PHP CMS) 
+- ⚡ Mainly working with React js and Redux as a state management pattern and Typescript.  
 
 <br />
 <br />
@@ -55,12 +54,13 @@
   <br />
   <br />
   
-- 🔭 Front end developer
-- 🌱 mgm-tp [ 09/05/2022 – ] (Current)
-- 🏠 City: Prague
+ - 🔭 Front end developer
+- 🌱 VOATT [ 14/04/2020 – 06/08/2020 ]
+- 🏠 City: Pardubice
 - 🏤 Country: Czechia
-- ⚡ Mainly working with React js and Redux as a state management pattern and Typescript,  
- 
+- ⚡ Designing and implement components for various websites, mainly worked with Web Design (CSS, SASS), Html,
+  and simple functionality with pure JavaScript. The backend was in Drupal (an open-source PHP CMS) 
+
  -------------------------------------------------------------------------------------------------------------------                            
 <p align="center">
     <a href="https://github.com/ahmad-akel/github-readme-streak-stats">
