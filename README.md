@@ -1,5 +1,5 @@
 ### Hi there 👋
-  I'm Ahmad Akel, I'm a Frontend Developer (Specializing in React & Vue js), I'm also study Informatics at the university of CZU on Czech Republic.  ![](https://komarev.com/ghpvc/?username=Ahmad-Akel&color=blueviolet)
+  I'm Ahmad Akel, I'm a Frontend Developer (Specializing in React & Vue js), I'm also studying Informatics at the University of CZU in the Czech Republic.  ![](https://komarev.com/ghpvc/?username=Ahmad-Akel&color=blueviolet)
   
 📍You can message me via [GitHub Discussion](https://github.com/Ahmad-Akel/Ahmad-Akel/discussions)
 
@@ -35,7 +35,7 @@
 
   ## WORK EXPERIENCE
   
-- 🔭 Front end developer
+- 🔭 Front-end developer
 - 🌱 mgm-tp [ 09/05/2022 – ] (Current)
 - 🏠 City: Prague
 - 🏤 Country: Czechia
@@ -44,7 +44,7 @@
 <br />
 <br />
 
-- 🔭 Front end developer
+- 🔭 Front-end developer
 - 🌱 Advantech [ 03/09/2021 – 06/05/2022 ]
 - 🏠 City: Brno
 - 🏤 Country: Czechia
@@ -54,11 +54,11 @@
   <br />
   <br />
   
- - 🔭 Front end developer
+ - 🔭 Front-end developer
 - 🌱 VOATT [ 14/04/2020 – 06/08/2020 ]
 - 🏠 City: Pardubice
 - 🏤 Country: Czechia
-- ⚡ Designing and implement components for various websites, mainly worked with Web Design (CSS, SASS), Html,
+- ⚡ Designing and implementing components for various websites, mainly working with Web Design (CSS, SASS), Html,
   and simple functionality with pure JavaScript. The backend was in Drupal (an open-source PHP CMS) 
 
  -------------------------------------------------------------------------------------------------------------------                            
@@ -94,7 +94,7 @@
 
 ✅ Html 5, Dom.
 
-✅ CSS 3, SASS , less.
+✅ CSS 3, SASS, less.
 
 ✅ Bootstrap
 
@@ -134,7 +134,7 @@
 🔸 Willing to learn new technologies and technical stuff with a passion to gain more experience in Software
   Development, Testing, and Maintaining
   
-🔸 (C#, Entity framework, MSSQL, UWP): a school project to manage a movies store (watching, subscribing,
+🔸 (C#, Entity Framework, MSSQL, UWP): a school project to manage a movies store (watching, subscribing,
   and filtering data, user management, and permissions)
   
 🔸 SQL (Create a Databases application, with relations and SQL queries)
