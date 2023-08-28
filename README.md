@@ -61,7 +61,67 @@
 - ⚡ Designing and implementing components for various websites, mainly working with Web Design (CSS, SASS), Html,
   and simple functionality with pure JavaScript. The backend was in Drupal (an open-source PHP CMS) 
 
- -------------------------------------------------------------------------------------------------------------------                            
+   
+## Projects
+
+📅 09/05/2022 – CURRENT <br/><br/>
+💻 A12 (Low Code Platform) | mgm-tp
+<br/><br/>
+ **Description:**
+ Building and customizing applications with A12 (Low-Code model-driven platform), mainly working on Typescript, React, Redux, and Redux Saga.
+<br/><br/>
+**Technologies Used:**
+- TypeScript
+- React
+- Redux, Redux Saga
+- Styled Components
+- Html & CSS
+And two different internal projects, where I'm working on extending the React components provided by the
+UI libraries in order to customize the default behavior and use Redux actions for adding new or
+customizing default actions and behaviors
+ -------------------------------------------------------------------------------------------------------------------
+📅 10/04/2020 – 10/07/2020  <br/><br/>
+💻 Website Redesign | Merret
+<br/><br/>
+**Description:**<br/>
+ As a junior front-end developer, my first work experience involved redesigning and modernizing the
+ existing website for Orbit Merret. In this role, I updated the site's design to be more visually appealing,
+ optimized the site for mobile devices, and improved site performance and user experience.
+<br/><br/>**Technologies Used:**
+- JavaScript
+- Drupal
+- HTML
+- CSS
+
+<br/><br/>
+**Achievements:**<br/>
+- Successfully redesigned the site using HTML, CSS, JavaScript, and Drupal, resulting in a more modern
+and visually appealing website.
+- Improved the site's user experience by implementing new navigation menus, resulting in a more
+intuitive and user-friendly site.
+<br/><br/>
+ -------------------------------------------------------------------------------------------------------------------
+📅 10/04/2020 – 10/07/2020  <br/><br/>
+💻 Website Redesign | Merret
+<br/><br/>
+**Description:**<br/>
+ As a junior front-end developer, my first work experience involved redesigning and modernizing the
+ existing website for Orbit Merret. In this role, I updated the site's design to be more visually appealing,
+ optimized the site for mobile devices, and improved site performance and user experience.
+<br/><br/>**Technologies Used:**
+- JavaScript
+- Drupal
+- HTML
+- CSS
+
+<br/><br/>
+**Achievements:**<br/>
+- Successfully redesigned the site using HTML, CSS, JavaScript, and Drupal, resulting in a more modern
+and visually appealing website.
+- Improved the site's user experience by implementing new navigation menus, resulting in a more
+intuitive and user-friendly site.
+
+ -------------------------------------------------------------------------------------------------------------------
 <p align="center">
     <a href="https://github.com/ahmad-akel/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ahmad's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad-akel&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
