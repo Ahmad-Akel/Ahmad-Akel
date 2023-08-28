@@ -80,30 +80,35 @@ And two different internal projects, where I'm working on extending the React co
 UI libraries in order to customize the default behavior and use Redux actions for adding new or
 customizing default actions and behaviors
  -------------------------------------------------------------------------------------------------------------------
-📅 10/04/2020 – 10/07/2020  <br/><br/>
-💻 Website Redesign | Merret
+📅 20/09/2021 – 16/04/2022   <br/><br/>
+💻 DMP (Remote device provisioning, monitoring and management platform) | Advantech
 <br/><br/>
+🔗**Links:** [wadmp.advantech.cz](https://wadmp.advantech.cz/) <br/><br/>
 **Description:**<br/>
- As a junior front-end developer, my first work experience involved redesigning and modernizing the
- existing website for Orbit Merret. In this role, I updated the site's design to be more visually appealing,
- optimized the site for mobile devices, and improved site performance and user experience.
+ I contributed to the development of the WebAccess Device Management Platform (WADMP), utilizing my
+skills in Vue.js, JavaScript, HTML, and CSS. My responsibilities included redesigning and implementing new
+features to enhance the platform's functionality. During this project, I also had the opportunity to work with
+Grafana, which helped me develop my technical skills and gain valuable real-life project experience working
+with a professional team.
 <br/><br/>**Technologies Used:**
 - JavaScript
-- Drupal
+- Vue js, Vuex
 - HTML
 - CSS
 
 <br/><br/>
 **Achievements:**<br/>
-- Successfully redesigned the site using HTML, CSS, JavaScript, and Drupal, resulting in a more modern
-and visually appealing website.
-- Improved the site's user experience by implementing new navigation menus, resulting in a more
-intuitive and user-friendly site.
-<br/><br/>
+- Contributed to the implementation of new features that enhanced the platform's functionality and
+improved the site's user experience.
+- Successfully redesigned and improved existing features to enhance the platform's usability and
+performance.
+- Developed technical skills and enhanced teamwork abilities while working on a real-life project with a
+professional team.
  -------------------------------------------------------------------------------------------------------------------
 📅 10/04/2020 – 10/07/2020  <br/><br/>
 💻 Website Redesign | Merret
 <br/><br/>
+🔗**Links:** [www.merret.cz](https://www.merret.cz/en/about-company) <br/><br/>
 **Description:**<br/>
  As a junior front-end developer, my first work experience involved redesigning and modernizing the
  existing website for Orbit Merret. In this role, I updated the site's design to be more visually appealing,
