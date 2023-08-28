@@ -67,7 +67,13 @@
 📅 09/05/2022 – CURRENT <br/><br/>
 💻 A12 (Low Code Platform) | mgm-tp
 <br/><br/>
- **Description:**
+🔗**Links:** <br/>
+- [A12](https://www.mgm-tp.com/a12.html)
+- [A12 Show Cases](https://a12-showcases.mgm-tp.com/#GrundsteuerShowcase)
+- [Grundsteur Show Case](https://a12-showcases.mgm-tp.com/grundsteuer/)
+<br/><br/>
+
+**Description:**<br/>
  Building and customizing applications with A12 (Low-Code model-driven platform), mainly working on Typescript, React, Redux, and Redux Saga.
 <br/><br/>
 **Technologies Used:**
