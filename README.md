@@ -133,6 +133,8 @@ and visually appealing website.
 intuitive and user-friendly site.
 
  -------------------------------------------------------------------------------------------------------------------
+<a href="https://app.daily.dev/ahmadakel"><img src="https://api.daily.dev/devcards/70d90d4dc842496b97b9760354ee81fb.png?r=ivg" width="400" alt="Ahmad Akel's Dev Card"/></a>
+ -------------------------------------------------------------------------------------------------------------------
 <p align="center">
     <a href="https://github.com/ahmad-akel/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ahmad's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad-akel&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
