@@ -1,5 +1,5 @@
 ### Hi there 👋
-  I'm Ahmad Akel, I'm a Frontend Developer (Specializing in React & Vue js), I'm also studying Informatics at the University of CZU in the Czech Republic.  ![](https://komarev.com/ghpvc/?username=Ahmad-Akel&color=blueviolet)
+  I'm Ahmad Akel, I'm a Full Stack Developer Mainly working with Next and React, I also studied Informatics at the University of CZU in the Czech Republic.  ![](https://komarev.com/ghpvc/?username=Ahmad-Akel&color=blueviolet)
   
 📍You can message me via [GitHub Discussion](https://github.com/Ahmad-Akel/Ahmad-Akel/discussions)
 
@@ -157,13 +157,13 @@ intuitive and user-friendly site.
 
 ✅ Javascript
 
-✅ Vue js ( using Vuetify as a UI library and Vuex as a state management pattern)
-
 ✅ React, React Native
+
+✅ Next js
 
 ✅ OraclaSQL
 
-✅ NoSQL Database (Mongo DB)
+✅ NoSQL Database (Mongo DB, Dynamo DB)
 
 ✅ Html 5, Dom.
 
