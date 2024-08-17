@@ -34,12 +34,28 @@
 ![snake gif](https://github.com/ahmad-akel/narayanbavisetti/blob/output/github-contribution-grid-snake.gif)
 
   ## WORK EXPERIENCE
-  
-- 🔭 Front-end developer
-- 🌱 mgm-tp [ 09/05/2022 – ] (Current)
+
+- 🔭 Full Stack developer
+- 🌱 MSD [ 01/09/2023 – ] (Current)
 - 🏠 City: Prague
 - 🏤 Country: Czechia
-- ⚡ Mainly working with React js and Redux as a state management pattern and Typescript.  
+- ⚡ Main Responsibilities
+  - Contributed to the development of a web-based portal that integrates various analytical and Business Intelligence content into a single platform (aka Cockpit or Mashup Builder).
+  - Utilized technologies including TypeScript, Next.js, Prisma, Zustand, React Queries, PostgreSQL, Vitest, and Sass.
+  - Collaborated with cross-functional Agile teams, effectively using Jira for task management.
+ 
+
+<br />
+<br />
+
+- 🔭 Front-end developer
+- 🌱 mgm-tp [ 09/05/2022 – 31/08/2024]
+- 🏠 City: Prague
+- 🏤 Country: Czechia
+- ⚡ Main Responsibilities
+  - Developing Business Applications : Collaborated in teams to efficiently develop enterprise business applications using React, TypeScript, Redux, Redux Saga, Jest and Styled Components
+  - Team Productivity Improvement : Provided expert guidance on A12 platforms, significantly improving team productivity and onboarding
+
 
 <br />
 <br />
@@ -48,8 +64,8 @@
 - 🌱 Advantech [ 03/09/2021 – 06/05/2022 ]
 - 🏠 City: Brno
 - 🏤 Country: Czechia
-- ⚡ Mainly working with Vue js using Vuetify as a UI library and Vuex as a state management pattern, pure JavaScript,  
-  Html, CSS.
+- ⚡ Main Responsibilities
+  - Developing Device Management Platform : Contributed to the WebAccess Device Management Platform using Vue.js, Vuex, JavaScript, HTML, less and CSS
   
   <br />
   <br />
@@ -58,8 +74,8 @@
 - 🌱 VOATT [ 14/04/2020 – 06/08/2020 ]
 - 🏠 City: Pardubice
 - 🏤 Country: Czechia
-- ⚡ Designing and implementing components for various websites, mainly working with Web Design (CSS, SASS), Html,
-  and simple functionality with pure JavaScript. The backend was in Drupal (an open-source PHP CMS) 
+- ⚡ Main Responsibilities
+  - Implemented crucial website components, enhancing user interface and experience using JavaScript, Html and CSS
 
    
 ## Projects
